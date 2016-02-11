@@ -1,7 +1,4 @@
 # hello-world
 
-abcd
-efg
-hi
+print helloworld
 
-jk
